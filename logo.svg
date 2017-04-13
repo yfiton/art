@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256mm"
+   height="256mm"
+   viewBox="0 0 907.08661 907.08661"
+   id="svg4241"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="yfiton-logo.svg"
+   inkscape:export-filename="/home/lpellegr/Pictures/yfiton-logo-white-bg.png"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4">
+  <defs
+     id="defs4243" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="463.48849"
+     inkscape:cy="483.94261"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4246">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-145.27559)">
+    <rect
+       style="opacity:1;fill:#4527a0;fill-opacity:1;stroke:none;stroke-width:27.29999924;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4700-2"
+       width="725"
+       height="725"
+       x="2.1706746"
+       y="241.21919" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5279-0"
+       style="font-style:normal;font-weight:normal;font-size:90px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(4.8255648,0,0,4.8255648,-73.942063,-2004.9138)"><flowRegion
+         id="flowRegion5281-5"><rect
+           id="rect5283-8"
+           width="542.1875"
+           height="118.75"
+           x="54.6875"
+           y="477.36221"
+           style="font-size:90px;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara5285-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:100px;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC Bold';fill:#ffffff;fill-opacity:1">Y</flowPara></flowRoot>    <g
+       transform="matrix(4.5381411,0,0,4.5381411,590.77686,168.39621)"
+       id="g4-3"
+       style="fill:#b388ff;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#b388ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 8.460938,57.164062 c 0.28125,-0.734374 6.800781,-15.796874 31.054687,-13.261718 l 0.0039,10.054687 29.714844,-18.5625 -29.714844,-19.347656 -0.0039,9.996094 c -11.085937,2.9375 -26.789063,12.125 -32.1875,30.746093 z m 0,0"
+         id="path6-22" />
+    </g>
+  </g>
+</svg>
